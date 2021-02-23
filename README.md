@@ -1,13 +1,16 @@
-# DP-means
+<html>
+ <body>
+ <h3> Clustering Students Based on Their Prior Knowledge</h3>
+  <p>The primary goal of this work is to identify clusters of students exhibiting similar knowledge patterns.
+   <p>Paper: <a href="https://files.eric.ed.gov/fulltext/ED599189.pdf">Clustering Students Based on Their Prior Knowledge</a>
 
-The primary goal of this work is to identify clusters of students exhibiting similar knowledge patterns.
 
-Paper:
-
+<h3> Cite </h3>
 @inproceedings{Khayi2019ClusteringSB,
   title={Clustering Students Based on Their Prior Knowledge},
   author={Nisrine Ait Khayi and V. Rus},
   booktitle={EDM},
   year={2019}
+  
 }
 
