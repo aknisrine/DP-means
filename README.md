@@ -6,11 +6,12 @@
 
 
 <h3> Cite </h3>
-@inproceedings{Khayi2019ClusteringSB,
-  title={Clustering Students Based on Their Prior Knowledge},
-  author={Nisrine Ait Khayi and V. Rus},
-  booktitle={EDM},
-  year={2019}
-  
+@inproceedings{Khayi2019ClusteringSB, <br>
+<ul>
+ <li> title={Clustering Students Based on Their Prior Knowledge},
+  <li> author={Nisrine Ait Khayi and V. Rus},
+  <li> booktitle={EDM},
+  <li>year={2019}
+ </ul>
 }
 
